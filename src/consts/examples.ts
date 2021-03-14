@@ -1,4 +1,4 @@
-const EXAMPLES: Puzzle[] = [
+export const EXAMPLES: Puzzle[] = [
     {
         title: 'monkey',
         row: [
