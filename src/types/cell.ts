@@ -1,2 +1,2 @@
-type Bit = 0 | 1
-type Cells = Bit[]
+export type Bit = 0 | 1;
+export type Cells = Bit[];

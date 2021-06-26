@@ -1,5 +1,5 @@
-type Puzzle = {
-    column: number[][],
-    row: number[][],
-    title?: string
-}
+export type Puzzle = {
+  column: number[][];
+  row: number[][];
+  title?: string;
+};
